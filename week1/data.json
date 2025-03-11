@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "age": 28,
+        "city": "New York",
+        "score": 85
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "age": 34,
+        "city": "Los Angeles",
+        "score": 92
+    },
+    {
+        "id": 3,
+        "name": "Emily Johnson",
+        "age": 22,
+        "city": "Chicago",
+        "score": 78
+    },
+    {
+        "id": 4,
+        "name": "Michael Brown",
+        "age": 40,
+        "city": "Houston",
+        "score": 88
+    },
+    {
+        "id": 5,
+        "name": "David Wilson",
+        "age": 30,
+        "city": "San Francisco",
+        "score": 95
+    }
+]

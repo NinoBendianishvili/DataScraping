@@ -1,0 +1,104 @@
+2025-03-12 02:31:44,284 - INFO - Initialized FileOrganizer with root directory: /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files
+2025-03-12 02:31:44,284 - INFO - Listing files in directory: /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files, recursive=False
+2025-03-12 02:31:44,285 - INFO - Found 23 files
+2025-03-12 02:31:44,285 - INFO - Listing files in directory: /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files, recursive=True
+2025-03-12 02:31:44,285 - INFO - Found 34 files
+2025-03-12 02:31:44,285 - INFO - Sorting files by name, reverse=False
+2025-03-12 02:31:44,285 - INFO - Sorting files by type, reverse=False
+2025-03-12 02:31:44,285 - INFO - Sorting files by date, reverse=False
+2025-03-12 02:31:44,285 - INFO - Searching for 'report' in /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files, recursive=True, case_sensitive=False
+2025-03-12 02:31:44,285 - INFO - Listing files in directory: /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files, recursive=True
+2025-03-12 02:31:44,285 - INFO - Found 34 files
+2025-03-12 02:31:44,285 - INFO - Found 4 files matching 'report'
+2025-03-12 02:31:44,285 - INFO - Searching for 'REPORT' in /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files, recursive=True, case_sensitive=True
+2025-03-12 02:31:44,285 - INFO - Listing files in directory: /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files, recursive=True
+2025-03-12 02:31:44,285 - INFO - Found 34 files
+2025-03-12 02:31:44,285 - INFO - Found 0 files matching 'REPORT'
+2025-03-12 02:31:44,286 - INFO - Organizing files by type from /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files to test_files/organized_by_type
+2025-03-12 02:31:44,286 - INFO - Listing files in directory: /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files, recursive=False
+2025-03-12 02:31:44,286 - INFO - Found 23 files
+2025-03-12 02:31:44,286 - INFO - Created directory for csv files: test_files/organized_by_type/csv
+2025-03-12 02:31:44,286 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/customers.csv to test_files/organized_by_type/csv/customers.csv
+2025-03-12 02:31:44,286 - INFO - Created directory for pdf files: test_files/organized_by_type/pdf
+2025-03-12 02:31:44,287 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/document.pdf to test_files/organized_by_type/pdf/document.pdf
+2025-03-12 02:31:44,287 - INFO - Created directory for json files: test_files/organized_by_type/json
+2025-03-12 02:31:44,287 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/settings.json to test_files/organized_by_type/json/settings.json
+2025-03-12 02:31:44,287 - INFO - Created directory for txt files: test_files/organized_by_type/txt
+2025-03-12 02:31:44,288 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/notes.txt to test_files/organized_by_type/txt/notes.txt
+2025-03-12 02:31:44,288 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/config.json to test_files/organized_by_type/json/config.json
+2025-03-12 02:31:44,289 - INFO - Created directory for jpg files: test_files/organized_by_type/jpg
+2025-03-12 02:31:44,289 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/screenshot.jpg to test_files/organized_by_type/jpg/screenshot.jpg
+2025-03-12 02:31:44,289 - INFO - Created directory for py files: test_files/organized_by_type/py
+2025-03-12 02:31:44,289 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/test.py to test_files/organized_by_type/py/test.py
+2025-03-12 02:31:44,290 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/data.json to test_files/organized_by_type/json/data.json
+2025-03-12 02:31:44,290 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/invoice.pdf to test_files/organized_by_type/pdf/invoice.pdf
+2025-03-12 02:31:44,290 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/photo.jpg to test_files/organized_by_type/jpg/photo.jpg
+2025-03-12 02:31:44,291 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/log.txt to test_files/organized_by_type/txt/log.txt
+2025-03-12 02:31:44,292 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/report.txt to test_files/organized_by_type/txt/report.txt
+2025-03-12 02:31:44,292 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/readme.txt to test_files/organized_by_type/txt/readme.txt
+2025-03-12 02:31:44,292 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/module.py to test_files/organized_by_type/py/module.py
+2025-03-12 02:31:44,293 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/script.py to test_files/organized_by_type/py/script.py
+2025-03-12 02:31:44,293 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/old_file_2.txt to test_files/organized_by_type/txt/old_file_2.txt
+2025-03-12 02:31:44,294 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/inventory.csv to test_files/organized_by_type/csv/inventory.csv
+2025-03-12 02:31:44,294 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/data.txt to test_files/organized_by_type/txt/data.txt
+2025-03-12 02:31:44,295 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/report.pdf to test_files/organized_by_type/pdf/report.pdf
+2025-03-12 02:31:44,295 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/old_file_0.txt to test_files/organized_by_type/txt/old_file_0.txt
+2025-03-12 02:31:44,295 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/image.jpg to test_files/organized_by_type/jpg/image.jpg
+2025-03-12 02:31:44,295 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/old_file_1.txt to test_files/organized_by_type/txt/old_file_1.txt
+2025-03-12 02:31:44,296 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/sales.csv to test_files/organized_by_type/csv/sales.csv
+2025-03-12 02:31:44,296 - INFO - Organizing files by date from /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files to test_files/organized_by_date using format %Y-%m
+2025-03-12 02:31:44,296 - INFO - Listing files in directory: /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files, recursive=False
+2025-03-12 02:31:44,296 - INFO - Found 23 files
+2025-03-12 02:31:44,296 - INFO - Created directory for 2025-03: test_files/organized_by_date/2025-03
+2025-03-12 02:31:44,296 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/customers.csv to test_files/organized_by_date/2025-03/customers.csv
+2025-03-12 02:31:44,297 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/document.pdf to test_files/organized_by_date/2025-03/document.pdf
+2025-03-12 02:31:44,297 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/settings.json to test_files/organized_by_date/2025-03/settings.json
+2025-03-12 02:31:44,298 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/notes.txt to test_files/organized_by_date/2025-03/notes.txt
+2025-03-12 02:31:44,299 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/config.json to test_files/organized_by_date/2025-03/config.json
+2025-03-12 02:31:44,299 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/screenshot.jpg to test_files/organized_by_date/2025-03/screenshot.jpg
+2025-03-12 02:31:44,299 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/test.py to test_files/organized_by_date/2025-03/test.py
+2025-03-12 02:31:44,300 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/data.json to test_files/organized_by_date/2025-03/data.json
+2025-03-12 02:31:44,300 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/invoice.pdf to test_files/organized_by_date/2025-03/invoice.pdf
+2025-03-12 02:31:44,301 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/photo.jpg to test_files/organized_by_date/2025-03/photo.jpg
+2025-03-12 02:31:44,302 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/log.txt to test_files/organized_by_date/2025-03/log.txt
+2025-03-12 02:31:44,302 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/report.txt to test_files/organized_by_date/2025-03/report.txt
+2025-03-12 02:31:44,302 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/readme.txt to test_files/organized_by_date/2025-03/readme.txt
+2025-03-12 02:31:44,303 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/module.py to test_files/organized_by_date/2025-03/module.py
+2025-03-12 02:31:44,303 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/script.py to test_files/organized_by_date/2025-03/script.py
+2025-03-12 02:31:44,303 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/old_file_2.txt to test_files/organized_by_date/2025-03/old_file_2.txt
+2025-03-12 02:31:44,304 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/inventory.csv to test_files/organized_by_date/2025-03/inventory.csv
+2025-03-12 02:31:44,304 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/data.txt to test_files/organized_by_date/2025-03/data.txt
+2025-03-12 02:31:44,304 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/report.pdf to test_files/organized_by_date/2025-03/report.pdf
+2025-03-12 02:31:44,305 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/old_file_0.txt to test_files/organized_by_date/2025-03/old_file_0.txt
+2025-03-12 02:31:44,305 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/image.jpg to test_files/organized_by_date/2025-03/image.jpg
+2025-03-12 02:31:44,305 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/old_file_1.txt to test_files/organized_by_date/2025-03/old_file_1.txt
+2025-03-12 02:31:44,305 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/sales.csv to test_files/organized_by_date/2025-03/sales.csv
+2025-03-12 02:31:44,306 - INFO - Organizing files by size from /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files to test_files/organized_by_size
+2025-03-12 02:31:44,306 - INFO - Listing files in directory: /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files, recursive=False
+2025-03-12 02:31:44,306 - INFO - Found 23 files
+2025-03-12 02:31:44,306 - INFO - Created directory for tiny files: test_files/organized_by_size/tiny
+2025-03-12 02:31:44,306 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/customers.csv to test_files/organized_by_size/tiny/customers.csv
+2025-03-12 02:31:44,307 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/document.pdf to test_files/organized_by_size/tiny/document.pdf
+2025-03-12 02:31:44,307 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/settings.json to test_files/organized_by_size/tiny/settings.json
+2025-03-12 02:31:44,308 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/notes.txt to test_files/organized_by_size/tiny/notes.txt
+2025-03-12 02:31:44,308 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/config.json to test_files/organized_by_size/tiny/config.json
+2025-03-12 02:31:44,309 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/screenshot.jpg to test_files/organized_by_size/tiny/screenshot.jpg
+2025-03-12 02:31:44,309 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/test.py to test_files/organized_by_size/tiny/test.py
+2025-03-12 02:31:44,309 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/data.json to test_files/organized_by_size/tiny/data.json
+2025-03-12 02:31:44,310 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/invoice.pdf to test_files/organized_by_size/tiny/invoice.pdf
+2025-03-12 02:31:44,310 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/photo.jpg to test_files/organized_by_size/tiny/photo.jpg
+2025-03-12 02:31:44,311 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/log.txt to test_files/organized_by_size/tiny/log.txt
+2025-03-12 02:31:44,311 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/report.txt to test_files/organized_by_size/tiny/report.txt
+2025-03-12 02:31:44,311 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/readme.txt to test_files/organized_by_size/tiny/readme.txt
+2025-03-12 02:31:44,311 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/module.py to test_files/organized_by_size/tiny/module.py
+2025-03-12 02:31:44,312 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/script.py to test_files/organized_by_size/tiny/script.py
+2025-03-12 02:31:44,312 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/old_file_2.txt to test_files/organized_by_size/tiny/old_file_2.txt
+2025-03-12 02:31:44,312 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/inventory.csv to test_files/organized_by_size/tiny/inventory.csv
+2025-03-12 02:31:44,313 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/data.txt to test_files/organized_by_size/tiny/data.txt
+2025-03-12 02:31:44,313 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/report.pdf to test_files/organized_by_size/tiny/report.pdf
+2025-03-12 02:31:44,313 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/old_file_0.txt to test_files/organized_by_size/tiny/old_file_0.txt
+2025-03-12 02:31:44,314 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/image.jpg to test_files/organized_by_size/tiny/image.jpg
+2025-03-12 02:31:44,314 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/old_file_1.txt to test_files/organized_by_size/tiny/old_file_1.txt
+2025-03-12 02:31:44,314 - INFO - Copied /Users/ninobendianishvili/Documents/py_ttf_1/DataScrapingLabs/hw1/test_files/sales.csv to test_files/organized_by_size/tiny/sales.csv
+2025-03-12 02:31:44,314 - INFO - Creating backup of test_files to test_backup.zip
+2025-03-12 02:31:44,333 - INFO - Backup created: test_backup.zip
